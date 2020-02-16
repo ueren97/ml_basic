@@ -1,2 +1,4 @@
 # ml_basic
-basic concepts of machine learning
+
+This repository is about basic concepts of machine learning.
+There are some tutorials for beginners.
