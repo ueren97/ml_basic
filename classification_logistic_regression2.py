@@ -21,7 +21,7 @@ def standardize(x):
 train_z = standardize(train_x)
 
 
-# x0とx3を加える
+# add x0&x3
 def to_matrix(x):
     x0 = np.ones([x.shape[0], 1])
     x3 = x[:, 0, np.newaxis] ** 2
